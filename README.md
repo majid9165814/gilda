@@ -17,4 +17,4 @@ ss
 4e
 25
 ma
-ka
+kar
