@@ -14,7 +14,7 @@ go
 ds
 ss
 12
-4
+48
 
 ma
 karim
