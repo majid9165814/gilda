@@ -21,4 +21,4 @@ karim
 99
 86
 iman
-ma
+maj
