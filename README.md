@@ -22,4 +22,4 @@ karim
 86
 iman
 majid
-sa
+sam
