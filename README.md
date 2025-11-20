@@ -14,7 +14,7 @@ go
 ds
 ss
 12
-ra
+rag
 
 ma
 karim
