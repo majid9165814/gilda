@@ -17,7 +17,7 @@ ss
 rag
 knv
 ma
-karim
+kari
 99
 86
 iman
