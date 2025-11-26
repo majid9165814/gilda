@@ -23,4 +23,4 @@ kari
 iman
 majid
 samaneh
-shookh
+shook
