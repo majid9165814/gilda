@@ -24,4 +24,4 @@ iman
 majid
 samaneh
 shooko
-pere
+peres
