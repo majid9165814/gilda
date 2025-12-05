@@ -9,7 +9,6 @@ alimoradi 91
 15
 
 21
-1
 go
 ds
 ss
