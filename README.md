@@ -18,7 +18,7 @@ knv
 ma
 kari
 99
-86
+8
 iman
 majid
 samaneh
