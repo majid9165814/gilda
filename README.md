@@ -24,4 +24,4 @@ majid
 samaneh
 shooko
 perespolis
-fami
+famil
