@@ -10,7 +10,7 @@ alimoradi 91
 64
 78g
 go
-ds
+dsm
 ss
 12
 rag
