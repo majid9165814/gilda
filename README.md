@@ -10,7 +10,7 @@ alimoradi 91
 64
 78gv
 go
-dsmc
+dsmct
 ss
 12
 rag
