@@ -3,7 +3,7 @@ abolfazl ali
 alimoradi 91
 14c
 23
-75tz
+75t
 42
 126
 154
